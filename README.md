@@ -28,3 +28,34 @@ This Power BI dashboard visualizes insights from a survey of data professionals,
 ![Dashboard Preview](./Data%20Professional%20Survey%20Dashboard.png)
   
 ---
+# 📞 Call Center Dashboard – Power BI  
+
+## 📝 Overview  
+This Power BI dashboard provides insights into **call center performance**, focusing on key metrics such as **call answer rates, resolution rates, agent performance, and customer satisfaction**. It allows users to filter by **Agent, Topic, and Date** to analyze trends over time.
+
+## 📊 Features  
+- 📈 **Call Answer Rate** – Percentage of answered calls out of total received calls.  
+- ✅ **Resolution Rate** – Percentage of resolved calls among answered ones.  
+- ⏳ **Average Answer Speed** – Displays how quickly calls are answered (in seconds).  
+- 📅 **Calls Per Month** – A breakdown of call volumes by month.  
+- 🎯 **Agent Performance** – Includes answered calls, resolved calls, satisfaction rates, and average response times.  
+- 🔎 **Filters** – Users can filter data by **Agent, Topic, and Date Range** for deeper analysis.  
+
+## 🛠 Tools Used  
+- **Power BI** – For data visualization  
+- **Call Center Data** – fro analysis 
+
+## 📂 How to Use  
+1. Open the `.pbix` file in **Power BI Desktop**.  
+2. Use the filters to explore trends by **agent, date, or topic**.  
+3. Modify the dataset to add new call center metrics.  
+
+## 🚀 Future Improvements  
+- 🔹 Add real-time data connectivity for live monitoring.  
+- 🔹 Include more performance KPIs like **First Call Resolution (FCR)** and **Abandoned Call Rate**.  
+- 🔹 Enhance visualization with additional drill-downs and interactions.  
+
+## 🖼 Preview  
+![Call Center Dashboard](Call%20Center%20Dashboard.png)  
+
+---
