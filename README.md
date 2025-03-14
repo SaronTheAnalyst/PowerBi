@@ -56,6 +56,6 @@ This Power BI dashboard provides insights into **call center performance**, focu
 - 🔹 Enhance visualization with additional drill-downs and interactions.  
 
 ## 🖼 Preview  
-![Call Center Dashboard](Call%20Center%20Dashboard.png)  
+![Call Center Dashboard](call%20center%20dashboard.png)  
 
 ---
