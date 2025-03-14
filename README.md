@@ -25,5 +25,6 @@ This Power BI dashboard visualizes insights from a survey of data professionals,
 - 🔹 Expand dataset coverage with more diverse survey responses.
 
 ## 🖼 Preview
-![Dashboard Preview](Data Professional Survey Dashboard.png)  
+![Dashboard Preview](./Data%20Professional%20Survey%20Dashboard.png)
+  
 ---
