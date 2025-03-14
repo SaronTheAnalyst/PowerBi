@@ -12,7 +12,7 @@ This Power BI dashboard visualizes insights from a survey of data professionals,
 
 ## 🔧 Tools Used
 - **Power BI** – For data visualization
-- **Survey Data** – (Source unspecified) for analysis
+- **Survey Data** – for analysis
 
 ## 📂 How to Use
 1. Open the `.pbix` file in **Power BI Desktop**.
